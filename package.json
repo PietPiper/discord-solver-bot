@@ -1,0 +1,15 @@
+{
+  "name": "discord-solver-bot",
+  "version": "1.0.0",
+  "description": "package.json file for discord math bot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PietPiper",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "equations": "^1.3.7"
+  }
+}
